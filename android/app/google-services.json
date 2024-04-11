@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "934477884482",
+    "project_id": "qurani1",
+    "storage_bucket": "qurani1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:934477884482:android:b1bf667e811871547b51db",
+        "android_client_info": {
+          "package_name": "at.semoat.quranppa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC67LJDUZ5HTQCa5IYvMoBXpJU9eLOltDU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
